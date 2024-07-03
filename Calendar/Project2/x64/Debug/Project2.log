@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\cjfgh\OneDrive\바탕 화면\취업활동\포트폴리오\C++ 개인프로젝트\project_game\Calendar\main.cpp(189,1): warning C4715: 'Search': 모든 제어 경로에서 값을 반환하지는 않습니다.
-Project2\x64\Debug\calendar.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
-  Project2.vcxproj -> C:\Users\cjfgh\OneDrive\바탕 화면\취업활동\포트폴리오\C++ 개인프로젝트\project_game\Calendar\x64\Debug\Project2.exe
-  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
-  배치 파일이 아닙니다.
